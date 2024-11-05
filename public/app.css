@@ -2,8 +2,9 @@ body {
     font-family: 'Roboto', sans-serif;
     text-align: center;
     text-shadow: 0 .05rem .1rem rgba(0,0,0,.5);
-    color: rgb(66,69,86);
-    background-image: url('http://i.imgur.com/BJP2Q1j.jpg');
+    padding-top: 10em;
+    color: rgb(255, 255, 255);
+    background-image: url('https://images.pexels.com/photos/2848492/pexels-photo-2848492.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
     background-size: cover;
     font-weight: 100;
 }

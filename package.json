@@ -13,8 +13,11 @@
   "author": "Jonathan Camiling",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
     "express": "^4.21.1",
     "faker": "^6.6.6",
-    "mysql": "^2.18.1"
+    "mysql2": "^3.11.4"
   }
 }
